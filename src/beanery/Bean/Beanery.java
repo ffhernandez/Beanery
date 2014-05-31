@@ -18,6 +18,6 @@ public class Beanery {
 	System.out.print (minion.getSalary());
 	minion.incrementSalary ();
 	System.out.print (minion.getSalary());
-	
+	System.out.println(minion);
     }
 }
